@@ -1,5 +1,5 @@
-import React from 'react';
-
+import React from 'react';   
+  
 const Item = props => {
 	return (
 		<div className="shopping-cart_item">
